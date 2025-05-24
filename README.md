@@ -1,8 +1,7 @@
 # Web Development Training Program
-
-**Duration:** May 17 – 22, 2025  
+ 
 **Trainee:** Ahmed Ismail Amer  
-**Objective:** Build foundational web-dev skills and complete 28 essential tasks before the main project begins on May 23.
+**Objective:** Build foundational web-dev skills and complete 28 essential tasks.
 
 ---
 
@@ -23,7 +22,6 @@
 
 ## 🔗 Resources
 
-- **Full task list & instructions:** [Web Development Internship Program – GitBook](#)  
 - **Codecademy Exercises:** Search for relevant modules on HTML, JS, React, etc.
 
 ---
