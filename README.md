@@ -16,7 +16,6 @@
 7. **API Integration Practice**  
 8. **Hands-on Mini Projects**
 
-> **Daily Goal:** Complete the assigned task and push your code to this repository by end of day.
 
 ---
 
