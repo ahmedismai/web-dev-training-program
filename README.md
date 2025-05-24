@@ -32,5 +32,5 @@
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/web-dev-training-program.git
+   git clone https://github.com/ahmedismai/web-dev-training-program.git
    cd web-dev-training-program
